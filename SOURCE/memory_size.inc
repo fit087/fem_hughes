@@ -1,0 +1,1 @@
+      integer*4, parameter :: MAX_SIZE = 100000
